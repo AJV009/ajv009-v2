@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ajv009.com/v2/sitemap.xml
+Sitemap: https://ajv009.github.io/ajv009-v2/sitemap.xml
