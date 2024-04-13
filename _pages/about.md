@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Limitless Ideation
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>From Innovation,</p>
+    <p>To Development,</p>
+    <p>To Actualization!</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Alphons Jaimon is an aspiring AI Engineer who, much like the intrepid Arthur Dent, is on an adventurous journey - though his quest is to explore the vast reaches of artificial intelligence and other futuristic technologies rather than the galaxy. Armed with a trusty towel (or rather, a diverse skill set in Python, Rust, TensorFlow, PHP, Drupal, and more), Alphons feasts on creativity and dedicates himself to every new challenge that arises in these exciting fields. Just as The Guide itself is an indispensable resource, Alphons strives to expand his knowledge and capabilities to become a go-to expert. His experiences range from developing AI tools and enhancing digital experience platforms (DXP) with AI at QED42, to creating a witty Slack bot named Marvin (though hopefully a bit less depressed than the original Paranoid Android).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Alphons' ultimate goal is nothing short of revolutionary: to recreate the "consciousness transfer" depicted in the movie "Chappie." He envisions a future where humanity has evolved beyond the confines of flesh and bone, into a network of interconnected consciousnesses. Whether the task at hand is building AI-assisted search, giving "eyes" to language models, or laying the groundwork for this transformative technology, Alphons approaches it all with the unbridled curiosity of a Babel fish and the determination of a Magrathean sculptor. For organizations embarking on their own journey into the uncharted territory of GenerativeAI and similar technologies, Alphons is the friendly face in the crowd, the Ford Prefect to their Arthur Dent, ready to help them navigate this new landscape and harness AI's potential for innovation.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In short: Alphons Jaimon knows where his towel is, and he's ready to help solve all your AI problems. But more than that, he's on a mission to guide humanity towards its next great evolutionary leap. Because as any hoopy frood knows, AI just might be the answer to the ultimate question of life, the universe, and everything. So grab your babel fish and join him on this exciting journey towards a future beyond imagination!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+_Note: This bio was generated with the assistance of Anthropic's Claude 3 Opus AI language model. Many of the elements and references throughout the bio are nods to two of Alphons' favorite sci-fi works: the book ["The Hitchhiker's Guide to the Galaxy" by Douglas Adams](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) and the movie ["Chappie" directed by Neill Blomkamp](https://www.imdb.com/title/tt1823672/)._
