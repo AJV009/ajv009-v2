@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ajv009
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AJV009/marvin
+  - AJV009/risk-package-detection
+  - AJV009/indoor-care-chatbot
+  - qed42/pm2_task_scheduler
+  - qed42/milvus-docker
+  - qed42/text-embeddings-inference-docker
+  - AJV009/daisy
+  - XeonAJ/awesome_ai_ideas
